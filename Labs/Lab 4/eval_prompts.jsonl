@@ -1,0 +1,10 @@
+{"id": 201, "prompt": "Explain LP vs MILP in exactly 3 bullet points.", "reference": "Should clearly contrast variable types, complexity, and typical applications."}
+{"id": 202, "prompt": "Give a 2-sentence explanation of why constraints are needed in optimization.", "reference": "Should mention feasibility and practical realism."}
+{"id": 203, "prompt": "Provide one industry example where integer decisions are necessary.", "reference": "Should include yes/no or count decision context."}
+{"id": 204, "prompt": "In markdown table format, compare heuristic and exact optimization methods using three rows.", "reference": "Should include quality guarantee and runtime trade-off."}
+{"id": 205, "prompt": "List 3 reproducibility practices for LLM finetuning experiments.", "reference": "Should mention seed/version/logging or equivalent."}
+{"id": 206, "prompt": "Explain what QLoRA is and how it differs from standard LoRA.", "reference": "Should mention 4-bit quantization and memory savings."}
+{"id": 207, "prompt": "What is catastrophic forgetting and how does LoRA help prevent it?", "reference": "Should mention frozen base weights and parameter-efficient updates."}
+{"id": 208, "prompt": "Describe the purpose of a warmup phase in learning rate scheduling in 2 sentences.", "reference": "Should mention gradual increase and training stability."}
+{"id": 209, "prompt": "Compare fp16 and bf16 training in 3 bullet points.", "reference": "Should mention exponent range, numerical stability, and hardware support."}
+{"id": 210, "prompt": "Explain why gradient accumulation is useful when GPU memory is limited.", "reference": "Should mention effective batch size and memory trade-off."}
