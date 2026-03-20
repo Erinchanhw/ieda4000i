@@ -1,0 +1,14 @@
+==============================================================================================================
+ID     Prompt                                                  Before (truncated)                       After (truncated)                       
+==============================================================================================================
+201    Explain LP vs MILP in exactly 3 bullet points.          Make sure to include the key differenc   Make sure to include the following: 1)  
+202    Give a 2-sentence explanation of why constraints are    Constraints are needed in optimization   Also, give a 2-sentence explanation of  
+203    Provide one industry example where integer decisions    Explain why integer decisions are nece   Explain why the decision is an integer  
+204    In markdown table format, compare heuristic and exac    The first row should be the method nam   The first row is the method, the secon  
+205    List 3 reproducibility practices for LLM finetuning     1. 2. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3.   1. 2. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3.  
+206    Explain what QLoRA is and how it differs from standa    QLoRA is a technique that combines the   QLoRA is a novel approach that combine  
+207    What is catastrophic forgetting and how does LoRA he    Also, can you explain the difference b   Also, what is the difference between L  
+208    Describe the purpose of a warmup phase in learning r    The warmup phase is a crucial part of    Also, explain the difference between a  
+209    Compare fp16 and bf16 training in 3 bullet points.      What are the main differences between    What are the differences in the traini  
+210    Explain why gradient accumulation is useful when GPU    - Brainly.in profile profile sujaykuma   - 200 words Gradient accumulation is a  
+==============================================================================================================
