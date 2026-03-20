@@ -1,0 +1,51 @@
+
+You are using non-default spack instances.
+Please do not mix packages installed from different spack instances.
+
+This script will unload all other spack instances and modules automatically.
+
+==> Checking spack config and cache paths
+
+
+    Spack instance root: /opt/shared/.spack-edge
+    Shared apps and modules: /opt/shared/.spack-edge/dist
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Your spack config: /home/hwchanav/.spack-edge
+    Your spack apps: /home/hwchanav/.spack-edge
+    Tmpdir (TMPDIR and TMP): /tmp/user-7187
+
+==> Activating spack instance [edge] with no confirm
+==> Setting up spack [edge] environment
+==> Spack [edge] environment is ready
+
+    Please kindly send bug reports or suggestions to kftse   (kftse@ust.hk)
+
+Map:   0%|          | 0/50 [00:00<?, ? examples/s]Map: 100%|██████████| 50/50 [00:00<00:00, 2101.48 examples/s]
+Map:   0%|          | 0/10 [00:00<?, ? examples/s]Map: 100%|██████████| 10/10 [00:00<00:00, 3000.43 examples/s]
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 101.06it/s]
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:01,  3.25s/it] 10%|█         | 2/20 [00:03<00:31,  1.73s/it] 15%|█▌        | 3/20 [00:04<00:22,  1.34s/it]
+  0%|          | 0/5 [00:00<?, ?it/s][A
+100%|██████████| 5/5 [00:00<00:00, 44.62it/s][A                                              
+                                             [A 20%|██        | 4/20 [00:05<00:21,  1.34s/it]
+100%|██████████| 5/5 [00:00<00:00, 44.62it/s][A
+                                             [A 25%|██▌       | 5/20 [00:06<00:14,  1.03it/s] 30%|███       | 6/20 [00:06<00:12,  1.14it/s] 35%|███▌      | 7/20 [00:07<00:10,  1.25it/s]
+  0%|          | 0/5 [00:00<?, ?it/s][A
+100%|██████████| 5/5 [00:00<00:00, 44.73it/s][A                                              
+                                             [A 40%|████      | 8/20 [00:07<00:09,  1.25it/s]
+100%|██████████| 5/5 [00:00<00:00, 44.73it/s][A
+                                             [A 45%|████▌     | 9/20 [00:08<00:08,  1.37it/s] 50%|█████     | 10/20 [00:09<00:07,  1.42it/s]                                                50%|█████     | 10/20 [00:09<00:07,  1.42it/s] 55%|█████▌    | 11/20 [00:09<00:06,  1.46it/s]
+  0%|          | 0/5 [00:00<?, ?it/s][A
+100%|██████████| 5/5 [00:00<00:00, 44.82it/s][A                                               
+                                             [A 60%|██████    | 12/20 [00:10<00:05,  1.46it/s]
+100%|██████████| 5/5 [00:00<00:00, 44.82it/s][A
+                                             [A 65%|██████▌   | 13/20 [00:11<00:04,  1.49it/s] 70%|███████   | 14/20 [00:11<00:03,  1.52it/s] 75%|███████▌  | 15/20 [00:12<00:03,  1.54it/s]
+  0%|          | 0/5 [00:00<?, ?it/s][A
+100%|██████████| 5/5 [00:00<00:00, 45.79it/s][A                                               
+                                             [A 80%|████████  | 16/20 [00:12<00:02,  1.54it/s]
+100%|██████████| 5/5 [00:00<00:00, 45.79it/s][A
+                                             [A 85%|████████▌ | 17/20 [00:13<00:01,  1.56it/s] 90%|█████████ | 18/20 [00:14<00:01,  1.58it/s] 95%|█████████▌| 19/20 [00:14<00:00,  1.60it/s]                                               100%|██████████| 20/20 [00:15<00:00,  1.60it/s]
+  0%|          | 0/5 [00:00<?, ?it/s][A
+100%|██████████| 5/5 [00:00<00:00, 45.31it/s][A                                               
+                                             [A100%|██████████| 20/20 [00:15<00:00,  1.60it/s]
+100%|██████████| 5/5 [00:00<00:00, 45.31it/s][A
+                                             [A                                               100%|██████████| 20/20 [00:15<00:00,  1.60it/s]100%|██████████| 20/20 [00:15<00:00,  1.28it/s]
