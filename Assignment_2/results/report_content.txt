@@ -1,0 +1,19 @@
+PROBLEM 2 REPORT CONTENT
+============================================================
+
+1. DATA SCALING DESIGN PARAMETERS
+----------------------------------------
+Experiments conducted:
+- Baseline: Original Qwen2.5-1.7B model
+- LoRA r=8 with 1,000 training samples
+- LoRA r=8 with 2,000 training samples
+- LoRA r=8 with 5,000 training samples
+- LoRA r=32 with 1,000 training samples
+
+2. LOSS VISUALIZATION
+----------------------------------------
+Eval_loss comparison plot will be saved to Assignment_2/figures/eval_loss_comparison.png
+
+3. MODEL OUTPUT COMPARISON
+----------------------------------------
+Comparison table will be saved to Assignment_2/results/model_comparison.csv

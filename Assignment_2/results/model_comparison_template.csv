@@ -1,0 +1,6 @@
+Sample #,Review,Ground Truth,Original Model,LoRA r=8 (1k),LoRA r=8 (2k),LoRA r=8 (5k),LoRA r=32 (1k)
+1,This product is amazing! Works perfectly.,5,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training
+2,"Terrible quality, broke after one use.",1,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training
+3,"Good value for money, satisfied with purchase.",4,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training
+4,"Average product, nothing special.",3,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training
+5,Excellent customer service and fast shipping!,5,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training,Placeholder - Run after training
